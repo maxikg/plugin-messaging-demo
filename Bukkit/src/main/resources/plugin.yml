@@ -1,0 +1,6 @@
+name: PluginMessagingDemo
+version: ${project.version}
+main: de.maxikg.pluginmessaging.bukkit.DemoPlugin
+
+commands:
+  playereffect: ~

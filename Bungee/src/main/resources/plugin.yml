@@ -1,0 +1,3 @@
+name: PluginMessagingDemo
+version: ${project.version}
+main: de.maxikg.pluginmessaging.bungee.DemoPlugin
